@@ -1,0 +1,1 @@
+# Girilen-3-Sayinin-Ortalamasini-Gosteren-Program
